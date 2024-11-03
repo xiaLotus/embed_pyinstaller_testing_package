@@ -101,3 +101,9 @@ wheel                     0.44.0
 win32-setctime            1.1.0
 wsproto                   1.2.0
 ```
+
+### 基本運行
+使用方式：
+```cmd=
+.\\python-3.11.1\python.exe ./{檔名}.py
+```
