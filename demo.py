@@ -7,4 +7,6 @@ import numpy as np
 
 
 print("Hello World")
+# 打包測試
 input("please input any key to exit!")
+print(np.__version__)
